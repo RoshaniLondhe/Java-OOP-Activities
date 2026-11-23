@@ -1,7 +1,7 @@
 
 class StudentRecord {
 
-    int rollNo;
+    string rollNo;
     String name;
     double marks;
 
