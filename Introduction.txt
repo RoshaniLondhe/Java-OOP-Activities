@@ -1,0 +1,12 @@
+Name: Your Name
+Subject: Object Oriented Programming
+Activity: GitHub Introduction
+
+GitHub is a web-based platform used to store,
+manage and share programming code.
+
+A repository is a storage location containing
+project files and folders.
+
+Files contain source code and other information.
+Folders are used to organize project files.
