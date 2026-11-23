@@ -1,11 +1,11 @@
 
 class StudentRecord {
 
-    string rollNo;
+    String rollNo;
     String name;
     double marks;
 
-    StudentRecord(int rollNo, String name, double marks) {
+    StudentRecord(String rollNo, String name, double marks) {
         this.rollNo = rollNo;
         this.name = name;
         this.marks = marks;
